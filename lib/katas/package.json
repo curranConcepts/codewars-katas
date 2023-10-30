@@ -1,0 +1,10 @@
+{
+  "name": "katas-generator",
+  "version": "1.0.0",
+  "main": "katas-generator.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^9.1.1",
+    "yargs": "^17.0.1"
+  }
+}
