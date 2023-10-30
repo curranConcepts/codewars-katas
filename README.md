@@ -21,8 +21,6 @@
 - [Tips](#tips-&-tricks)
 - [More Learning Resources](#more-learning-resources)
 - [Similar Platforms](#similar-platforms)
-- [Contributors](#contributors)
-- [License](#license)
 
 ### Introduction
 
